@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aaf49b3e-195b-4b98-8ec5-79581c002d89" name="Changes" comment="Add gitignore">
-      <change afterPath="$PROJECT_DIR$/src/lesson1/HelloUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson1/HelloWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson3/arrayInteger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson4/array0.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson6/Random.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson6_1/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HelloUser.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HelloWorld.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
-    </list>
+    <list default="true" id="aaf49b3e-195b-4b98-8ec5-79581c002d89" name="Changes" comment="14 students with fields" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,7 +20,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="lesson2" />
+        <entry key="$PROJECT_DIR$" value="lesson6" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -143,7 +132,7 @@
       <workItem from="1689008612618" duration="3481000" />
       <workItem from="1689063450241" duration="3477000" />
       <workItem from="1689068967930" duration="9683000" />
-      <workItem from="1689144638287" duration="19572000" />
+      <workItem from="1689144638287" duration="19876000" />
     </task>
     <task id="LOCAL-00001" summary="Add gitignore">
       <option name="closed" value="true" />
@@ -153,7 +142,23 @@
       <option name="project" value="LOCAL" />
       <updated>1689012183967</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="List of students with random marks">
+      <option name="closed" value="true" />
+      <created>1689177775317</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1689177775317</updated>
+    </task>
+    <task id="LOCAL-00003" summary="14 students with fields">
+      <option name="closed" value="true" />
+      <created>1689177855267</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1689177855267</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -161,6 +166,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add gitignore" />
+    <MESSAGE value="List of students with random marks" />
+    <MESSAGE value="14 students with fields" />
+    <option name="LAST_COMMIT_MESSAGE" value="14 students with fields" />
   </component>
 </project>

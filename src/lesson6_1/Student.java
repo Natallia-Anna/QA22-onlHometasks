@@ -16,7 +16,7 @@ class Student
         Student student11 = new Student("ДЕНИС","Информационные технологии", 8);
         Student student12 = new Student("КИРИЛЛ","Психология", 6);
         Student student13 = new Student("АЛЕКСЕЙ","Информационные технологии", 7);
-        Student student14 = new Student("АННА","Информационные технологии", 7);
+        Student student14 = new Student("АННА","Информационные технологии", 714);
         System.out.println(student1.getInfo());
         System.out.println(student2.getInfo());
         System.out.println(student3.getInfo());
